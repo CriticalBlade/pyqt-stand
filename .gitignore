@@ -1,0 +1,65 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+*.pch
+*.sdf
+
+/.root
+
+__pycache__/*
+*.pyc
+*.pyo
+
+/runtime/*
+/source/runtime/*
+
+/source/objs/*
+/source/Debug/*
+/source/Release/*
+/source/x64/*
+/source/.vs/*
+/source/build/*
+
+/objs/*
+/Debug/*
+/Release/*
+/x64/*
+/.vs/*
+/build/*
+
+/.tasks
+/site-packages/*
+/publish/*
+/test/ztest_*.cpp
+/ztest_*.cpp
+
